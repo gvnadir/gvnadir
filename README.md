@@ -4,7 +4,7 @@ Hi 👋 My name is Gianluca
 I'm a Frontend Developer and a Cybersecurity enthusiast
 ------------------
 
-4+ years of experience as a developer and now getting interested in cybersecurity.
+4+ years of experience as a developer and now getting interested in the cybersecurity field.
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [gianlucanadir@gmail.com](mailto:gianlucanadir@gmail.com)
