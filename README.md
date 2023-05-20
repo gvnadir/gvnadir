@@ -1,7 +1,7 @@
 Hi 👋 My name is Gianluca
 =========================
 
-Frontend Developer | Cybersecurity enthusiast
+I'm a Frontend Developer and a Cybersecurity enthusiast
 ------------------
 
 4+ years of experience as a developer and now getting interested in cybersecurity.
