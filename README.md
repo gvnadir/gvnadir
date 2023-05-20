@@ -8,9 +8,9 @@ Frontend Developer | Cybersecurity enthusiast
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [gianlucanadir@gmail.com](mailto:gianlucanadir@gmail.com)
-* 🧠  I'm learning Cybersecurity
+* 🧠  I'm learning Networking, Scripting and Linux
 * 🤝  I'm open to collaborating on React and Cybersecurity projects
-* ⚡  VIM user
+* ⚡  VIM + Tmux user
 
 ### Skills
 
