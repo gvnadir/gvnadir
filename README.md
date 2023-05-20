@@ -34,13 +34,13 @@ Frontend Developer | Cybersecurity enthusiast
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gvnadir"><img src="https://github-readme-stats.vercel.app/api?username=gvnadir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=444444&hide_border=true&show_icons=true" alt="gvnadir's GitHub stats" /></a>
+<a href="http://www.github.com/gvnadir"><img src="https://github-readme-stats.vercel.app/api?username=gvnadir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1b1b1b&hide_border=true&show_icons=true" alt="gvnadir's GitHub stats" /></a>
 
-<a href="http://www.github.com/gvnadir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gvnadir&stroke=ffffff&background=444444&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/gvnadir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gvnadir&stroke=ffffff&background=1b1b1b&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/gvnadir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvnadir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=444444&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gvnadir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvnadir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1b1b1b&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div><a href="https://github.com/gvnadir/nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gvnadir&repo=nvim&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=444444&hide_border=true&locale=en" /></a></div>
-<div><a href="https://github.com/gvnadir/dotfiles"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=gvnadir&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=444444&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div><a href="https://github.com/gvnadir/nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gvnadir&repo=nvim&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1b1b1b&hide_border=true&locale=en" /></a></div>
+<div><a href="https://github.com/gvnadir/dotfiles"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=gvnadir&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1b1b1b&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
